@@ -24,6 +24,8 @@ public class ProductDetailsElems{
     func productAmount(amount: String)-> XCUIElement {
         return productDetailsScreen.staticTexts[amount]
     }
+    
+    
     func detailsPageOf(productName: String)-> XCUIElement {
         return productDetailsScreen.staticTexts[productName]
     }
