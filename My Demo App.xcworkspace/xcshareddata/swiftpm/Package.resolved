@@ -1,0 +1,51 @@
+{
+  "originHash" : "6e0776e9003aa906842d6533d1ccac946e3ec1eec1e1221a33a1adef7ec37e30",
+  "pins" : [
+    {
+      "identity" : "backtrace-cocoa",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/backtrace-labs/backtrace-cocoa.git",
+      "state" : {
+        "revision" : "005963358c0ac3ee08ba8abbb8494d5b27a60cba",
+        "version" : "2.2.0-rc"
+      }
+    },
+    {
+      "identity" : "easytipview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/teodorpatras/EasyTipView",
+      "state" : {
+        "revision" : "1cba0e75f745da03773cd7092480c5fa8cde4a72",
+        "version" : "2.1.0"
+      }
+    },
+    {
+      "identity" : "formtextfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/3lvis/FormTextField",
+      "state" : {
+        "revision" : "77422c5144d8efec3770d77955b679662e4340db",
+        "version" : "4.0.5"
+      }
+    },
+    {
+      "identity" : "plcrashreporter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/microsoft/plcrashreporter.git",
+      "state" : {
+        "revision" : "8c61e5e38e9f737dd68512ed1ea5ab081244ad65",
+        "version" : "1.12.0"
+      }
+    },
+    {
+      "identity" : "testfairy-ios-sdk-swift-package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/testfairy/testfairy-ios-sdk-swift-package",
+      "state" : {
+        "revision" : "2d0172aa3083a4bcbe7dabbe64b60e0f10394f5c",
+        "version" : "2.3.0"
+      }
+    }
+  ],
+  "version" : 3
+}
